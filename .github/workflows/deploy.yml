@@ -29,6 +29,5 @@ jobs:
       - name: deploy
         run: |
           git config user.email "kanontonto1010@gmail.com"
-          git config user.name "RyuseiNomi"
           npm run deploy
 
