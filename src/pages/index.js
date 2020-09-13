@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>CI/CD Practice</h1>
-    <p>This website has made for practice to learn CI/CD proces via Github Action</p>
+    <p>Hello, This website has made for practice to learn CI/CD proces via Github Action</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
